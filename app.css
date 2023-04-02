@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: "Delicious Handrawn", cursive;
+}
+
+#search-button {
+  color: white;
+  background-color: darkgrey;
+  font-family: "Delicious Handrawn", cursive;
+  font-size: 30px;
+}
+
+#remove-button {
+  color: white;
+  background-color: orange;
+  font-family: "Delicious Handrawn", cursive;
+  font-size: 30px;
+}
+#search-term {
+  font-family: "Delicious Handrawn", cursive;
+  font-size: 30px;
+}
+
+h1 {
+  color: white;
+  font-size: 100px;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
